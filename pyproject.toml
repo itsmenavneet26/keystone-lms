@@ -1,5 +1,5 @@
 [project]
-name = "lms"
+name = "keystone_lms"
 authors = [
     { name = "Frappe Technologies Pvt Ltd", email = "developers@frappe.io"}
 ]
